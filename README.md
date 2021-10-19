@@ -18,3 +18,4 @@ Grab the course at: https://www.vanillajavascriptprojects.com/
 <br><br>
 06 - [Question](https://lucid-banach-602f5a.netlify.app/)
 <br><br>
+07 - [Menu](https://determined-keller-7e6910.netlify.app/)
