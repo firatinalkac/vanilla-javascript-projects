@@ -21,3 +21,5 @@ Grab the course at: https://www.vanillajavascriptprojects.com/
 07 - [Menu](https://determined-keller-7e6910.netlify.app/)
 <br><br>
 08 - [Video](https://trusting-leakey-77d597.netlify.app/)
+<br><br>
+09 - [Scroll](https://agitated-engelbart-6e78d6.netlify.app/)
