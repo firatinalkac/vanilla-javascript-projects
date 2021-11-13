@@ -27,3 +27,5 @@ Grab the course at: https://www.vanillajavascriptprojects.com/
 10 - [Tabs](https://trusting-johnson-f65041.netlify.app/)
 <br><br>
 11 - [Countdown](https://adoring-haibt-4bc0b5.netlify.app/)
+<br><br>
+12 - [Lorem Ipsum](https://priceless-ardinghelli-a0ea9d.netlify.app/)
