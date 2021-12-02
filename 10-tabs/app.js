@@ -14,6 +14,11 @@ about.addEventListener('click', (e) => {
             article.classList.remove("active");
         })
         const element = document.getElementById(id);
+
+
+
+
+
         element.classList.add("active");
     }
 })
