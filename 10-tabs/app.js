@@ -17,8 +17,6 @@ about.addEventListener('click', (e) => {
 
 
 
-
-
         element.classList.add("active");
     }
 })
